@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="cacheSizeNames">
+        <item>@string/settings.cache_size_10</item>
+        <item>@string/settings.cache_size_20</item>
+        <item>@string/settings.cache_size_30</item>
+        <item>@string/settings.cache_size_50</item>
+        <item>@string/settings.cache_size_75</item>
+        <item>@string/settings.cache_size_100</item>
+        <!-- <item>@string/settings.cache_size_10000</item>
+         <item>@string/settings.cache_size_20000</item>
+         <item>@string/settings.cache_size_unlimited</item>-->
+    </string-array>
+    <string-array name="cacheSizeValues">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+        <!--<item>10000</item>
+        <item>20000</item>
+        <item>-1</item>-->
+    </string-array>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="country_arrays">
+        <item>Zambia</item>
+        <item>United States</item>
+    </string-array>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="maxBitrateNames">
+        <item>@string/settings.max_bitrate_32</item>
+        <item>@string/settings.max_bitrate_64</item>
+        <item>@string/settings.max_bitrate_80</item>
+        <item>@string/settings.max_bitrate_96</item>
+        <item>@string/settings.max_bitrate_112</item>
+        <item>@string/settings.max_bitrate_128</item>
+        <item>@string/settings.max_bitrate_160</item>
+        <item>@string/settings.max_bitrate_192</item>
+        <item>@string/settings.max_bitrate_256</item>
+        <item>@string/settings.max_bitrate_320</item>
+        <item>@string/settings.max_bitrate_unlimited</item>
+    </string-array>
+    <string-array name="maxBitrateValues">
+        <item>32</item>
+        <item>64</item>
+        <item>80</item>
+        <item>96</item>
+        <item>112</item>
+        <item>128</item>
+        <item>160</item>
+        <item>192</item>
+        <item>256</item>
+        <item>320</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="preloadCountNames">
+        <item>@string/settings.preload_1</item>
+        <item>@string/settings.preload_2</item>
+        <item>@string/settings.preload_3</item>
+        <item>@string/settings.preload_5</item>
+        <item>@string/settings.preload_10</item>
+        <!-- <item>@string/settings.preload_unlimited</item>-->
+    </string-array>
+    <string-array name="preloadCountValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <!-- <item>-1</item>-->
+    </string-array>
+    <string-array name="videoPlayerNames">
+        <item>MX Player</item>
+        <item>Flash</item>
+        <item>Default</item>
+    </string-array>
+    <string-array name="videoPlayerValues">
+        <item>mx</item>
+        <item>flash</item>
+        <item>default</item>
+    </string-array>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="appwidget_text">#FFFFFF</color>
+    <color name="appwidget_text_primary">#ffffffff</color>
+    <color name="appwidget_text_secondary">#ff999999</color>
+    <color name="buttonBarTextColor">#A0A0A0</color>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <color name="com_facebook_blue">#3B5998</color>
+    <color name="com_facebook_button_background_color">#415dae</color>
+    <color name="com_facebook_button_background_color_disabled">#bdc1c9</color>
+    <color name="com_facebook_button_background_color_pressed">#2f477a</color>
+    <color name="com_facebook_button_like_background_color_selected">#7c8fc8</color>
+    <color name="com_facebook_button_login_silver_background_color">#f4f6f8</color>
+    <color name="com_facebook_button_login_silver_background_color_pressed">#e9eaf0</color>
+    <color name="com_facebook_button_send_background_color">#0084ff</color>
+    <color name="com_facebook_button_send_background_color_pressed">#006fff</color>
+    <color name="com_facebook_likeboxcountview_border_color">#6a7180</color>
+    <color name="com_facebook_likeboxcountview_text_color">#6a7180</color>
+    <color name="com_facebook_likeview_text_color">#6a7180</color>
+    <color name="com_facebook_share_button_text_color">#FFFFFF</color>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="dividerColor">#FF33B5E5</color>
+    <color name="mediaControlBackground">#222E42</color>
+    <color name="mediaControlForeground">#F0F0F0</color>
+    <color name="notificationArtist">#434343</color>
+    <color name="notificationTitle">#000000</color>
+    <color name="overlayColor">#80000000</color>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/></declare-styleable>
+    <declare-styleable name="com_facebook_like_view"><attr format="color" name="foreground_color"/><attr format="string" name="object_id"/><attr name="object_type"><enum name="unknown" value="0"/><enum name="open_graph" value="1"/><enum name="page" value="2"/></attr><attr name="style"><enum name="standard" value="0"/><enum name="button" value="1"/><enum name="box_count" value="2"/></attr><attr name="auxiliary_view_position"><enum name="bottom" value="0"/><enum name="inline" value="1"/><enum name="top" value="2"/></attr><attr name="horizontal_alignment"><enum name="center" value="0"/><enum name="left" value="1"/><enum name="right" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_login_view"><attr format="boolean" name="confirm_logout"/><attr format="string" name="login_text"/><attr format="string" name="logout_text"/></declare-styleable>
+    <declare-styleable name="com_facebook_profile_picture_view"><attr name="preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="is_cropped"/></declare-styleable>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="com_facebook_likeboxcountview_border_radius">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_border_width">1dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_height">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_width">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_padding">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_likeview_edge_padding">2dp</dimen>
+    <dimen name="com_facebook_likeview_internal_padding">6dp</dimen>
+    <dimen name="com_facebook_likeview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_large">180dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_normal">100dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_small">50dp</dimen>
+    <dimen name="com_facebook_share_button_compound_drawable_padding">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_bottom">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_left">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_right">16dp</dimen>
+    <dimen name="com_facebook_share_button_padding_top">12dp</dimen>
+    <dimen name="com_facebook_share_button_text_size">16.0sp</dimen>
+    <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="widget_album_art_size">48dip</dimen>
+    <dimen name="widget_button_padding">8dip</dimen>
+    <dimen name="widget_button_size">48dip</dimen>
+    <dimen name="widget_margin">8dip</dimen>
+    <dimen name="widget_min_height">40dip</dimen>
+    <dimen name="widget_min_width">250dip</dimen>
+    <dimen name="widget_text_padding_top">5dip</dimen>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <plurals name="select_album_n_songs">
+        <item quantity="zero">No songs</item>
+        <item quantity="one">One song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+    <plurals name="select_album_n_songs_added">
+        <item quantity="one">One song added to play queue.</item>
+        <item quantity="other">%d songs added to play queue.</item>
+    </plurals>
+    <plurals name="select_album_n_songs_downloading">
+        <item quantity="one">One song scheduled for cache.</item>
+        <item quantity="other">%d songs scheduled for cache.</item>
+    </plurals>
+    <string name="about.back">Back</string>
+    <string name="about.close">Close</string>
+    <string name="about.label">Help</string>
+    <string name="about.loading">Loading…</string>
+    <string name="about.title">Welcome to Kalimba!</string>
+    <string name="about.url">file:///android_asset/html/en/about.html</string>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="auth_client_needs_enabling_title">
+      An application requires Google Play Services to be enabled.
+  </string>
+    <string name="auth_client_needs_installation_title">
+      An application requires installation of Google Play Services.
+  </string>
+    <string name="auth_client_needs_update_title">
+      An application requires an update for Google Play Services.
+  </string>
+    <string name="auth_client_play_services_err_notification_msg">Google Play services error</string>
+    <string name="auth_client_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string name="auth_client_using_bad_version_title">
+      An application attempted to use a bad version of Google Play Services.
+  </string>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="background_task.loading">Loading.</string>
+    <string name="background_task.network_error">A network error occurred. Please check the server address or try again later.</string>
+    <string name="background_task.no_network">This program requires network access. Please turn on Wi-Fi or mobile network.</string>
+    <string name="background_task.not_found">Resource not found. Please check the server address.</string>
+    <string name="background_task.parse_error">Didn\'t understand the reply. Please check the server address.</string>
+    <string name="background_task.wait">Please wait…</string>
+    <string name="button_bar.browse">LIBRARY</string>
+    <string name="button_bar.home">HOME</string>
+    <string name="button_bar.now_playing">PLAYER</string>
+    <string name="button_bar.playlists">PLAYLISTS</string>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">New! You\'re in control - choose what info you want to share with apps.</string>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="common.appname">Kalimba</string>
+    <string name="common.cancel">Cancel</string>
+    <string name="common.continue">Continue</string>
+    <string name="common.delete">Delete</string>
+    <string name="common.ok">OK</string>
+    <string name="common.pin">Cache</string>
+    <string name="common.play_last">Queue</string>
+    <string name="common.play_next">Play next</string>
+    <string name="common.play_now">Play now</string>
+    <string name="common.save">Save</string>
+    <string name="common.unpin">Clear Cache</string>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values/strings.xml -->
+    <eat-comment/>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">This app won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">This app won\'t run unless you update Google Play services.</string>
+    <string msgid="1788179980625863495" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="download.empty">Play queue is empty</string>
+    <string name="download.jukebox_not_authorized">Remote control is not allowed. Please enable jukebox mode in <b>Users > Settings</b> on your Kalimba server.</string>
+    <string name="download.jukebox_off">Turned off remote control. Music is played on the phone.</string>
+    <string name="download.jukebox_offline">Remote control is not available in offline mode.</string>
+    <string name="download.jukebox_on">Turned on remote control. Music is played on the computer.</string>
+    <string name="download.jukebox_server_too_old">Remote control is not supported. Please upgrade your Kalimba server.</string>
+    <string name="download.jukebox_volume">Remote volume</string>
+    <string name="download.menu_lyrics">Lyrics</string>
+    <string name="download.menu_pin">Cache</string>
+    <string name="download.menu_remove">Remove from queue</string>
+    <string name="download.menu_remove_all">Clear queue</string>
+    <string name="download.menu_save">Save as playlist</string>
+    <string name="download.menu_screen_off">Screen off</string>
+    <string name="download.menu_screen_on">Screen on</string>
+    <string name="download.menu_show_album">Show album</string>
+    <string name="download.menu_shuffle">Shuffle</string>
+    <string name="download.menu_shuffle_notification">Play queue was shuffled</string>
+    <string name="download.menu_unpin">Clear Cache</string>
+    <string name="download.playerstate_buffering">Buffering</string>
+    <string name="download.playerstate_downloading">Buffering - %s</string>
+    <string name="download.playerstate_playing_remote">Playing remote</string>
+    <string name="download.playerstate_playing_shuffle">Playing shuffle</string>
+    <string name="download.playlist_done">Playlist was successfully saved.</string>
+    <string name="download.playlist_error">Failed to save playlist, please try later.</string>
+    <string name="download.playlist_name">Enter the playlist name:</string>
+    <string name="download.playlist_saving">Saving playlist \"%s\"…</string>
+    <string name="download.playlist_title">Save playlist</string>
+    <string name="download.repeat_all">Repeat all</string>
+    <string name="download.repeat_off">Repeat off</string>
+    <string name="download.repeat_single">Repeat song</string>
+    <string name="download.screen_on">Keeping player screen on.</string>
+    <string name="download.visualizer_off">Turned off visualizer.</string>
+    <string name="download.visualizer_on">Turned on visualizer.</string>
+    <string name="equalizer.label">Equalizer</string>
+    <string name="equalizer.off">Equalizer off</string>
+    <string name="equalizer.on">Equalizer on</string>
+    <string name="equalizer.preset">Select preset</string>
+    <string name="error.label">Error</string>
+    <string name="help.back">Back</string>
+    <string name="help.close">Close</string>
+    <string name="help.label">Help</string>
+    <string name="help.loading">Loading…</string>
+    <string name="help.title">Welcome to Kalimba!</string>
+    <string name="help.url">file:///android_asset/html/en/help.html</string>
+    <string name="login.cc">CC</string>
+    <string name="login.label">Kalimba Login</string>
+    <string name="login.loginDesc">Please enter your number without country code</string>
+    <string name="login.mobileNo">Mobile Number</string>
+    <string name="login.validate">Validate</string>
+    <string name="loginDesc">Please enter your mobile number with Country Code to register</string>
+    <string name="lyrics.nomatch">No lyrics found</string>
+    <string name="main.albums_frequent">Most played</string>
+    <string name="main.albums_highest">Top rated</string>
+    <string name="main.albums_newest">Recently added</string>
+    <string name="main.albums_random">Random</string>
+    <string name="main.albums_recent">Recently played</string>
+    <string name="main.albums_title">ALBUMS</string>
+    <string name="main.select_server">Select server</string>
+    <string name="main.settings">Settings</string>
+    <string name="main.shuffle">Shuffle play</string>
+    <string name="main.shuffle_confirm">Do you want to start shuffle play?</string>
+    <string name="main.starred">My starred music</string>
+    <string name="main.use_connected">Use connected</string>
+    <string name="main.use_offline">Use offline</string>
+    <string name="main.welcome_text">Welcome to <b>Kalimba!</b></string>
+    <string name="main.welcome_title">Welcome!</string>
+    <string name="menu.about">About Us</string>
+    <string name="menu.exit">Exit</string>
+    <string name="menu.help">Help</string>
+    <string name="menu.settings">Settings</string>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="messenger_send_button_text">Send</string>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="music_library.label">Media library</string>
+    <string name="music_library.label_offline">Offline media</string>
+    <string name="music_service.retry">A network error occurred. Retrying %1$d of %2$d.</string>
+    <string name="parser.artist_count">Got %d artists.</string>
+    <string name="parser.not_authenticated">There is some problem with your registration. Please reinstall for the best Zambian music.</string>
+    <string name="parser.not_authorized">Not authorized. Check user permissions in Kalimba server.</string>
+    <string name="parser.reading">Reading from server.</string>
+    <string name="parser.reading_done">Reading from server. Done!</string>
+    <string name="parser.upgrade_client">Incompatible versions. Please upgrade Kalimba Android app.</string>
+    <string name="parser.upgrade_server">Incompatible versions. Please upgrade Kalimba server.</string>
+    <string name="playlist.label">Playlists</string>
+    <string name="prompt"> Country </string>
+    <string name="search.albums">ALBUMS</string>
+    <string name="search.artists">ARTISTS</string>
+    <string name="search.label">Search</string>
+    <string name="search.more">Show more</string>
+    <string name="search.no_match">No matches, please try again</string>
+    <string name="search.no_starred">No starred music found</string>
+    <string name="search.search">Click to search</string>
+    <string name="search.songs">SONGS</string>
+    <string name="search.title">Search</string>
+    <string name="search.title_starred">Starred music</string>
+    <string name="select_album.empty">No media found</string>
+    <string name="select_album.more">More</string>
+    <string name="select_album.n_selected">%d tracks selected.</string>
+    <string name="select_album.n_unselected">%d tracks unselected.</string>
+    <string name="select_album.no_network">Warning: No network available.</string>
+    <string name="select_album.no_sdcard">Error: No SD card available.</string>
+    <string name="select_album.offline">Offline</string>
+    <string name="select_album.searching">Searching…</string>
+    <string name="select_album.select">Select all</string>
+    <string name="select_artist.all_folders">All folders</string>
+    <string name="select_artist.folder">Select folder</string>
+    <string name="select_artist.refresh">Refresh</string>
+    <string name="select_playlist.empty">No saved playlists on server</string>
+    <string name="service.connecting">Contacting server, please wait.</string>
+    <string name="settings.appearance_title">Appearance</string>
+    <string name="settings.cache_default_size">50</string>
+    <string name="settings.cache_location">Cache location</string>
+    <string name="settings.cache_location_error">Invalid cache location. Using default.</string>
+    <string name="settings.cache_size">Cache size</string>
+    <string name="settings.cache_size_10">10 MB</string>
+    <string name="settings.cache_size_100">100 MB</string>
+    <string name="settings.cache_size_10000">10 GB</string>
+    <string name="settings.cache_size_20">20 MB</string>
+    <string name="settings.cache_size_20000">20 GB</string>
+    <string name="settings.cache_size_30">30 MB</string>
+    <string name="settings.cache_size_50">50 MB</string>
+    <string name="settings.cache_size_5000">5 GB</string>
+    <string name="settings.cache_size_75">75 MB</string>
+    <string name="settings.cache_size_unlimited">Unlimited</string>
+    <string name="settings.cache_title">Music cache</string>
+    <string name="settings.connection_failure">Connection failure.</string>
+    <string name="settings.hide_media_summary">Hide music files from other apps.</string>
+    <string name="settings.hide_media_title">Hide from other</string>
+    <string name="settings.hide_media_toast">Takes effect next time Android scans your phone for music.</string>
+    <string name="settings.invalid_url">Please specify a valid URL.</string>
+    <string name="settings.invalid_username">Please specify a valid username (no trailing spaces).</string>
+    <string name="settings.max_bitrate_112">112 Kbps</string>
+    <string name="settings.max_bitrate_128">128 Kbps</string>
+    <string name="settings.max_bitrate_160">160 Kbps</string>
+    <string name="settings.max_bitrate_192">192 Kbps</string>
+    <string name="settings.max_bitrate_256">256 Kbps</string>
+    <string name="settings.max_bitrate_32">32 Kbps</string>
+    <string name="settings.max_bitrate_320">320 Kbps</string>
+    <string name="settings.max_bitrate_64">64 Kbps</string>
+    <string name="settings.max_bitrate_80">80 Kbps</string>
+    <string name="settings.max_bitrate_96">96 Kbps</string>
+    <string name="settings.max_bitrate_mobile">Max bitrate - Mobile</string>
+    <string name="settings.max_bitrate_unlimited">Unlimited</string>
+    <string name="settings.max_bitrate_wifi">Max bitrate - Wi-Fi</string>
+    <string name="settings.media_button_summary">Respond to phone, headset and Bluetooth media buttons</string>
+    <string name="settings.media_button_title">Media buttons</string>
+    <string name="settings.network_title">Network</string>
+    <string name="settings.other_title">Other settings</string>
+    <string name="settings.preload">Songs to preload</string>
+    <string name="settings.preload.default">3</string>
+    <string name="settings.preload_1">1 song</string>
+    <string name="settings.preload_10">10 songs</string>
+    <string name="settings.preload_2">2 songs</string>
+    <string name="settings.preload_3">3 songs</string>
+    <string name="settings.preload_5">5 songs</string>
+    <string name="settings.preload_unlimited">Unlimited</string>
+    <string name="settings.screen_lit_summary">Keeping the screen on while downloading improves download speed.</string>
+    <string name="settings.screen_lit_title">Keep screen on</string>
+    <string name="settings.scrobble_summary">Remember to set up your Last.fm user and password on the Kalimba server</string>
+    <string name="settings.scrobble_title">Scrobble to Last.fm</string>
+    <string name="settings.server_address">Server address</string>
+    <string name="settings.server_name">Name</string>
+    <string name="settings.server_password">Password</string>
+    <string name="settings.server_unnamed">Unnamed</string>
+    <string name="settings.server_username">Username</string>
+    <string name="settings.servers_title">Servers</string>
+    <string name="settings.test_connection_title">Test connection</string>
+    <string name="settings.testing_connection">Testing connection…</string>
+    <string name="settings.testing_ok">Connection is OK</string>
+    <string name="settings.testing_unlicensed">Connection is OK. Server unlicensed.</string>
+    <string name="settings.title">Kalimba settings</string>
+    <string name="settings.video_player">Video player</string>
+    <string name="settings.video_title">Video</string>
+    <string name="settings.wifi_required_summary">Only stream media if connected to Wi-Fi</string>
+    <string name="settings.wifi_required_title">Wi-Fi streaming only</string>
+    <string name="settings_add_server">Add server</string>
+    <string name="settings_delete_server">Forget this server</string>
+    <string name="settings_delete_server_confirm">Really forget this server?</string>
+    <string name="share.failed">Failed to share. %s</string>
+    <string name="share.menu_share">Share…</string>
+    <string name="share_via">Share via</string>
+    <string name="song_details.all">%1$s %2$s</string>
+    <string name="song_details.kbps">%d kbps</string>
+    <string name="star.menu_star">Star</string>
+    <string name="star.menu_unstar">Unstar</string>
+    <string name="star.star_failed">Failed to star \"%s\"</string>
+    <string name="star.star_succesful">Starred \"%s\"</string>
+    <string name="star.unstar_failed">Failed to unstar \"%s\"</string>
+    <string name="star.unstar_succesful">Unstarred \"%s\"</string>
+    <string name="util.bytes_format.byte">0 B</string>
+    <string name="util.bytes_format.gigabyte">0.00 GB</string>
+    <string name="util.bytes_format.kilobyte">0 KB</string>
+    <string name="util.bytes_format.megabyte">0.00 MB</string>
+    <string name="video.get_mx_player_button">Get MX Player</string>
+    <string name="video.get_mx_player_text">MX Player is not installed. Get it for free on Play Store, or change video settings.</string>
+    <string name="widget.initial_text">Touch to select music</string>
+    <string name="widget.sdcard_busy">SD card unavailable</string>
+    <string name="widget.sdcard_missing">No SD card</string>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="HeaderTextView">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/mediaControlForeground</item>
+        <item name="android:background">@color/dividerColor</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">4dp</item>
+    </style>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/themes.xml -->
+    <eat-comment/>
+    <style name="Holo.Light" parent="@android:style/Theme.Holo.Light">
+       <!-- <item name="android:windowBackground">@drawable/background</item>-->
+    </style>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="ListView">
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+    </style>
+    <style name="MainMenuTextView">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">6dip</item>
+        <item name="android:paddingRight">6dip</item>
+        <item name="android:minHeight">50dip</item>
+    </style>
+    <style name="MainMenuTextView.AlbumList" parent="MainMenuTextView">
+        <item name="android:drawableRight">@drawable/navigate_right</item>
+        <item name="android:drawablePadding">6dip</item>
+    </style>
+    <style name="MenuBarButton">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">45dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/buttonBarTextColor</item>
+        <item name="android:background">@drawable/menubar_button</item>
+    </style>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="MessengerButton">
+    <item name="android:clickable">true</item>
+  </style>
+    <style name="MessengerButton.Blue">
+    <item name="android:background">@drawable/messenger_button_blue_bg_selector</item>
+  </style>
+    <style name="MessengerButton.Blue.Large">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">44dp</item>
+    <item name="android:layout_marginLeft">16dp</item>
+    <item name="android:layout_marginRight">16dp</item>
+  </style>
+    <style name="MessengerButton.Blue.Small">
+    <item name="android:layout_width">158dp</item>
+    <item name="android:layout_height">36dp</item>
+  </style>
+    <style name="MessengerButton.White">
+    <item name="android:background">@drawable/messenger_button_white_bg_selector</item>
+  </style>
+    <style name="MessengerButton.White.Large">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">44dp</item>
+    <item name="android:layout_marginLeft">16dp</item>
+    <item name="android:layout_marginRight">16dp</item>
+  </style>
+    <style name="MessengerButton.White.Small">
+    <item name="android:layout_width">158dp</item>
+    <item name="android:layout_height">36dp</item>
+  </style>
+    <style name="MessengerButtonText">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_gravity">center</item>
+    <item name="android:drawablePadding">4dp</item>
+    <item name="android:gravity">center</item>
+    <!--suppress NewApi -->
+    <item name="android:textAllCaps">true</item>
+    <item name="android:textSize">14sp</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+    <style name="MessengerButtonText.Blue">
+    <item name="android:textColor">#ffffff</item>
+  </style>
+    <style name="MessengerButtonText.Blue.Large">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_large_white</item>
+  </style>
+    <style name="MessengerButtonText.Blue.Small">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_small_white</item>
+  </style>
+    <style name="MessengerButtonText.White">
+    <item name="android:textColor">#0084ff</item>
+  </style>
+    <style name="MessengerButtonText.White.Large">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_large_blue</item>
+  </style>
+    <style name="MessengerButtonText.White.Small">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_small_blue</item>
+  </style>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="OverlayToggleButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@null</item>
+        <item name="android:padding">10dip</item>
+    </style>
+    <style name="PlaybackControl">
+        <item name="android:background">@drawable/media_button</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:padding">6dip</item>
+        <item name="android:layout_marginLeft">4dip</item>
+        <item name="android:layout_marginRight">4dip</item>
+        <item name="android:layout_width">54dip</item>
+        <item name="android:layout_height">54dip</item>
+        <item name="android:contentDescription">@null</item>
+    </style>
+    <style name="PlaybackControl.Small" parent="@style/PlaybackControl">
+        <item name="android:layout_width">46dip</item>
+        <item name="android:layout_height">46dip</item>
+    </style>
+    <style name="SeekBar">
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@drawable/scrubber_progress_horizontal_holo_dark</item>
+        <item name="android:progressDrawable">@drawable/scrubber_progress_horizontal_holo_dark</item>
+        <item name="android:thumb">@drawable/scrubber_control_selector_holo</item>
+        <item name="android:thumbOffset">16.0dip</item>
+        <item name="android:height">13.0dip</item>
+    </style>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/themes.xml -->
+    <eat-comment/>
+    <style name="SubsonicTheme" parent="@android:style/Theme">
+        <item name="android:windowBackground">@drawable/background</item>
+    </style>
+    <style name="SubsonicTheme.NoBackground" parent="@android:style/Theme"/>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="WidgetButton">
+        <item name="android:background">@drawable/media_button</item>
+        <item name="android:padding">@dimen/widget_button_padding</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">@dimen/widget_button_size</item>
+        <item name="android:layout_height">@dimen/widget_button_size</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:contentDescription">@null</item>
+    </style>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="com_facebook_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/com_facebook_button_background</item>
+        <item name="android:drawablePadding">6dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">14.0dp</item>
+    </style>
+    <style name="com_facebook_button_like" parent="com_facebook_button">
+        <item name="android:background">@drawable/com_facebook_button_like_background</item>
+    </style>
+    <style name="com_facebook_button_send" parent="com_facebook_button">
+        <item name="android:background">@drawable/com_facebook_button_send_background</item>
+        <item name="android:drawableLeft">@drawable/com_facebook_button_send_icon</item>
+        <item name="android:text">@string/com_facebook_send_button_text</item>
+    </style>
+    <style name="com_facebook_button_share" parent="com_facebook_button">
+        <item name="android:drawableLeft">@drawable/com_facebook_button_icon</item>
+        <item name="android:text">@string/com_facebook_share_button_text</item>
+    </style>
+    <style name="com_facebook_loginview_default_style" parent="com_facebook_button">
+        <item name="android:drawableLeft">@drawable/com_facebook_button_icon</item>
+    </style>
+    <style name="com_facebook_loginview_silver_style" parent="com_facebook_loginview_default_style">
+        <item name="android:background">@drawable/com_facebook_button_login_silver_background</item>
+        <item name="android:drawableLeft">@null</item>
+        <item name="android:textColor">#4b5164</item>
+    </style>
+    <style name="tooltip_bubble_text">
+	    <item name="android:textColor">@android:color/white</item>
+	    <item name="android:gravity">left</item>
+	    <item name="android:textSize">12sp</item>
+	    <item name="android:shadowDy">-1</item>
+	    <item name="android:shadowRadius">0.25</item>
+	    <item name="android:shadowColor">#40000000</item>
+    </style>
+</resources>
