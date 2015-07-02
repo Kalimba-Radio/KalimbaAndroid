@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+    android:visibility="visible">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout2"
+        android:layout_marginTop="50dp">
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relativeLayout2"
+        android:layout_marginTop="75dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:id="@+id/relativeLayout3">
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relativeLayout3"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="71dp"
+        android:id="@+id/relativeLayout">
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relativeLayout2"
+        android:layout_alignLeft="@+id/relativeLayout3"
+        android:layout_marginTop="37dp"
+        android:weightSum="1"
+        android:id="@+id/linearLayout">
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/login.validate"
+        android:id="@+id/loginButton"
+        android:layout_below="@+id/relativeLayout3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="33dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/validateText"
+        android:layout_marginTop="33dp"
+        android:visibility="invisible"
+        android:numeric="integer"
+        android:maxLength="4"
+        android:layout_below="@+id/textValidate"
+        android:layout_alignLeft="@+id/loginButton"
+        android:layout_alignRight="@+id/loginButton" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/common.ok"
+        android:id="@+id/validateBttn"
+        android:visibility="invisible"
+        android:layout_alignBottom="@+id/validateText"
+        android:layout_toRightOf="@+id/validateText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter the Pass Key you recieved by SMS to complete the authentication process"
+        android:id="@+id/textValidate"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/relativeLayout3"
+        android:layout_alignRight="@+id/mobileNo"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/login.loginDesc"
+        android:id="@+id/loginDesc"
+        android:layout_below="@+id/relativeLayout2"
+        android:layout_centerHorizontal="true" />
+
+    <Spinner
+        android:id="@+id/cc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:drawSelectorOnTop="true"
+        android:prompt="@string/prompt"
+        android:layout_alignBottom="@+id/relativeLayout3"
+        android:layout_toLeftOf="@+id/mobileNo"
+        android:layout_alignLeft="@+id/relativeLayout3"
+        android:layout_alignStart="@+id/relativeLayout3"
+        android:layout_below="@+id/loginDesc" />
+
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/mobileNo"
+        android:textIsSelectable="false"
+        android:maxLength="15"
+        android:layout_above="@+id/relativeLayout"
+        android:layout_alignLeft="@+id/loginButton"
+        android:hint="@string/login.mobileNo"/>
+
+
+</RelativeLayout>
+<!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/layout/login.xml -->

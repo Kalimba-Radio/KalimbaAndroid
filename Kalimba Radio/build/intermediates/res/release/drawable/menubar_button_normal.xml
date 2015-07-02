@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent" />
+</shape>
+<!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/drawable/menubar_button_normal.xml -->

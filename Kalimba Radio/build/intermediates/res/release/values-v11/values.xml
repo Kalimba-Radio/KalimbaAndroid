@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values-v11/colors.xml -->
+    <eat-comment/>
+    <color name="notificationArtist">#bababa</color>
+    <color name="notificationTitle">#dddddd</color>
+    <!-- From: file:/D:/Project%20Kalimba/java/KalimbaAndroid_WS/subsonic-android/Kalimba%20Radio/src/main/res/values-v11/themes.xml -->
+    <eat-comment/>
+    <style name="Holo.Light" parent="@android:style/Theme.Holo.Light">
+       <!-- <item name="android:windowBackground">@drawable/background</item>-->
+
+    </style>
+    <style name="SubsonicTheme" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@drawable/background</item>
+    </style>
+    <style name="SubsonicTheme.NoBackground" parent="@android:style/Theme.Holo"/>
+</resources>
